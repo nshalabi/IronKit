@@ -1,6 +1,6 @@
 # IronKit
 
-### Add **IronPython** and **Python** support without the DLL dependecies for Red teaming assessmnets and without Python interpreter.
+### Add Python support to your redteam tools using IronPython, but without any dependencies (IronPython DLLs or Python installation).
 
 # Introduction
 
