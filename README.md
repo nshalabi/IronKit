@@ -9,7 +9,7 @@ This repository contains a class library of merged code of IronPython DLLs: Iron
 # Release Notes
 
 -   This is the initial version, built with .NET 4.5 and Visual Studio 2019
--   Use the code by adding it to your project, or simply add your code to project and change the type (target) of the project (for example, from class library to program).
+-   Use the code by adding it to your project, or simply add your code to IronKit project and change the project type (target) of the project (for example, from class library to program).
 
 # License
 
