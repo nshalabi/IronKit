@@ -13,7 +13,7 @@ This repository contains a class library of merged code of IronPython DLLs: Iron
 
 # Demo with Zolom
 
-This repository contains a modiifed version of [Zolom](https://github.com/checkymander/Zolom) created by [@checkymander](https://github.com/checkymander). Zolom is an Executable created using C# with IronPython that can be used reflectively to run python code on systems without installing Python. The version of Zolom in this repository was modified to use IronKit instead of IronPython DLLs and dependencies (IronPython.dll, IronPython.Modules.dll, Microsoft.Dynamic.dll and Microsoft.Scripting.dll).
+This repository contains a modified version of [Zolom](https://github.com/checkymander/Zolom) created by [@checkymander](https://github.com/checkymander). Zolom is an Executable created using C# and uses IronPython to run python code on systems without installing Python. The version of Zolom in this repository was modified to use IronKit instead of IronPython DLLs and dependencies (IronPython.dll, IronPython.Modules.dll, Microsoft.Dynamic.dll and Microsoft.Scripting.dll).
 
 # License
 
